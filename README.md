@@ -1,3 +1,3 @@
-# Legend of Zelda: Ocarina of Time Master Quest (debug)
+# The Ocarina of Time PC Port
 
-This is an old repo. Active development has moved to https://github.com/zeldaret/oot
+This is is a port of Zelda 64: The Ocarina of Time for the Windows PC. Compile the source or [download a prebuild version here.](https://mega.nz/file/3UdEBDjI#HlO0mUojScKTO4NYzO_v_afaD3xTMxlanZEX7xGBOrY)
